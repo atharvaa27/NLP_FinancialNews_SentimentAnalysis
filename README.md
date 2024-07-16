@@ -117,13 +117,16 @@ The project uses various machine learning models for sentiment analysis:
 ## Screenshots
 
 ### Sentiment Analysis Workflow
-![screenshot](./Screenshot/flow_analysis.png)
+<img src="./Screenshot/flow_analysis.png" alt="screenshot" width="400"/>
+
 ### Word Cloud for Positive Sentiment
-![screenshot](./Screenshot/positive.png)
+<img src="./Screenshot/positive_word_cloud.png" alt="screenshot" width="400"/>
+
 ### Word Cloud for Negative Sentiment
-![screenshot](./Screenshot/negative.png)
+<img src="./Screenshot/negative_word_cloud.png" alt="screenshot" width="400"/>
+
 ### Word Cloud for Neutral Sentiment
-![screenshot](./Screenshot/neutral.png)
+<img src="./Screenshot/neutral_wordcloud.png" alt="screenshot" width="400"/>
 
 ## Summary
 This research effectively analysed the mood of financial and blockchain news stories,
